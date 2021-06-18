@@ -1,0 +1,8 @@
+{
+    "watch": [
+      "bin",
+      "routes"
+    ],
+    "ext": "js",
+    "delay": 3
+  }
